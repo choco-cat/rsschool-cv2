@@ -8,7 +8,7 @@
 I will fill in later.
 
 ### Skills
-C#, JS, PHP, SQL
+JS, PHP, SQL
 
 ### Code samples
 ```php
@@ -27,8 +27,8 @@ while ($row = $this->db->sql_fetchrow($result))
 $this->db->sql_freeresult($result);		
 ```
 ### Education
-Higher pedagogical education
-Institute of Information Technologies BSUIR, IIT BSUIR
+2015 - Institute of Information Technologies BSUIR, IIT BSUIR 
+2004 - Higher pedagogical education (Mathematics, Computer science)
 
 ### English
 A1 Beginner и Elementary
