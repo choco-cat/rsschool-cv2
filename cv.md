@@ -1,7 +1,7 @@
 ## Natalia Panfilenka
 
 ### Contacts
-- __Email__: choco-cat@mail.ru.com
+- __Email__: choco-cat@mail.ru
 - __Skype__: choco-cat3
 
 ### Summary
